@@ -1,0 +1,75 @@
+body {
+    background-image: url("/GitPages2/img/cofe5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    }
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+    }
+    
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding-left: 0%;
+    }
+li{
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: Roboto;
+    }
+   
+
+.one {color: white}
+
+.one>div {
+width: 50%;
+margin: 0 auto;
+}
+
+.one>div>h1 {
+    font-size: 50px;
+}
+
+.one>div>p {
+    font-size: 30px;
+}
+
+.one>div>p>span {
+    font-size: 50px;
+}
+
+.two {background-image: url("/GitPages2/img/pattern.png");
+padding: 30px;}
+
+.two>div>h2, .three>div>h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+.two>div>h3 {
+    line-height: 250%;
+    text-align: center;
+}
+
+.two>div>p, .three>div>p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 200%;
+}
+
+
+.three {
+    color: white;
+    padding: 5% 20%;
+}
