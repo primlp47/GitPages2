@@ -1,5 +1,5 @@
 body {
-    background-image: url("/GitPages2/img/cofe5.jpg");
+    background-image: url("/GitPages2/img1/cofe5.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -48,7 +48,7 @@ margin: 0 auto;
     font-size: 50px;
 }
 
-.two {background-image: url("/GitPages2/img/pattern.png");
+.two {background-image: url("/GitPages2/img1/pattern.png");
 padding: 30px;}
 
 .two>div>h2, .three>div>h2 {
